@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_wide">16dp</dimen>
+    <dimen name="margin_hlaf">8</dimen>
+    <dimen name="text_box_size">24dp</dimen>
+</resources>

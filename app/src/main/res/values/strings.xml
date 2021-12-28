@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ColourGame</string>
+    <string name="box_one">Box One</string>
+    <string name="box_two">Box Two</string>
+    <string name="box_three">Box Three</string>
+    <string name="box_four">Box Four</string>
+    <string name="box_five">Box Five</string>
+    <string name="button_red">Red Button</string>
+    <string name="button_yellow">Yellow Button</string>
+    <string name="button_Blue">Blue Button</string>
+    <string name="Game_instruction">How to play? :</string>
+    <string name="tap_the_textview">Tap on the text view \</string>
+</resources>
